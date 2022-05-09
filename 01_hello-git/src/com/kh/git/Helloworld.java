@@ -23,6 +23,9 @@ public class Helloworld {
 		
 		dog dog = new dog();
 		dog.bark();
+		
+		Cat cat= new Cat();
+		cat.cry();
 	}
 	
 	
