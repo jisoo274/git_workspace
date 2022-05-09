@@ -1,5 +1,6 @@
 package com.kh.git;
 
+import com.kh.animal.Cat;
 import com.kh.animal.dog;
 
 public class Helloworld {
