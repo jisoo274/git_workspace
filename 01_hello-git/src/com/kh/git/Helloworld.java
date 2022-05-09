@@ -1,5 +1,7 @@
 package com.kh.git;
 
+import com.kh.animal.dog;
+
 public class Helloworld {
 /**
  * SCM Software Configuration Management
@@ -19,6 +21,8 @@ public class Helloworld {
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
 		
+		dog dog = new dog();
+		dog.bark();
 	}
 	
 	
